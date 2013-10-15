@@ -1,1 +1,3 @@
-This is an Image detection module for detecting obstacles.
+<<<<<<< HEAD
+Obstacle Detection
+>>>>>>> github/master
