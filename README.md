@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-Obstacle Detection
->>>>>>> github/master
+Obstacle Detection 
